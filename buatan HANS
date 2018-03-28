@@ -1,0 +1,8 @@
+program TIK;
+uses crt;
+
+type
+  mancung : hidung
+
+var
+  pendek : badan
